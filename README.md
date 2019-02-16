@@ -12,8 +12,8 @@ Release Source Code of Django Blog Python Learning v.3.8
 
 ### Technologies
 
-- Django 1.10
-- Python 3.5
+- Django 2.10
+- Python 3.6
 - Postgresql
 
 ### Features
