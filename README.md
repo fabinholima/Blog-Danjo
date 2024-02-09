@@ -1,4 +1,4 @@
-Pojeto de adaptação Django 2.0 
+Projeto de adaptação Django 2.0 
 
 Baseado no 
 
